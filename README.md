@@ -64,5 +64,8 @@ Clone the repository and install dependencies:
 3. **TensorBoard for Monitoring**  
    - TensorBoard is used to **visualize training and validation metrics** over epochs.  
    - You can track loss, RMSE, and R² in real time to monitor model performance and detect overfitting.  
-   - It can be launched inside Colab or exposed via a public URL for interactive moni
+   - It can be launched inside Colab or exposed via a public URL for interactive monitoring
+  
+     ****<img width="1244" height="554" alt="image" src="https://github.com/user-attachments/assets/9702469b-ac0d-4972-bca0-3bfd3209a64c" />
+
 
